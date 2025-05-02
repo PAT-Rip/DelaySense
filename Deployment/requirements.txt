@@ -1,0 +1,6 @@
+streamlit
+scikit-learn
+pandas
+numpy
+joblib
+python_version >= 3.12.7
